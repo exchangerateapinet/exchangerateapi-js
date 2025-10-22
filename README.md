@@ -2,18 +2,18 @@
 
 A minimal JavaScript wrapper for exchangerateapi.net providing convenient access to the two endpoints.
 
-- Website: [exchangerateapi.com](https://exchangerateapi.com)
+- Website: [exchangerateapi.net](https://exchangerateapi.net)
 
 ## Installation
 
 ```bash
-npm install
+npm install @exchangerateapinet/exchangerateapi-js
 ```
 
 ## Usage
 
 ```javascript
-const { ExchangeRateApiClient } = require('exchangerateapi-js');
+const { ExchangeRateApiClient } = require('@exchangerateapinet/exchangerateapi-js');
 ```
 
 Or directly from `src` in this repo for local testing:

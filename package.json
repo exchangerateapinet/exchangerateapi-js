@@ -1,6 +1,6 @@
 {
-  "name": "exchangerateapi-js",
-  "version": "0.1.0",
+  "name": "@exchangerateapinet/exchangerateapi-js",
+  "version": "0.1.4",
   "description": "A minimal JavaScript wrapper for exchangerateapi.net with latest and historical endpoints.",
   "main": "src/index.js",
   "scripts": {
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/exchangerateapinet/exchangerateapi-js/issues"
   },
-  "homepage": "https://github.com/exchangerateapinet/exchangerateapi-js#readme"
+  "homepage": "https://github.com/exchangerateapinet/exchangerateapi-js#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
